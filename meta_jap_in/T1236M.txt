@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=vga
+network=0
+genre=Fighting
+description=An enhanced port of Super Street Fighter II X: Grand Master Challenge, known as Super Street Fighter II Turbo in the west. The game is virtually identical to other ports of Super Street Fighter II X/Super Street Fighter II Turbo, but is compatible with Capcom's "matching service", meaning players can compete online.
+padding0=0
